@@ -89,6 +89,15 @@
 | `injectipa` | `15.1` | :heavy_check_mark: |
 
 
+
+## This type of jailbreak we support
+
+| Jailbreak | Supported          |
+| ------- | ------------------ |
+| Dopamine roothide  | :white_check_mark: |
+-----------
+
+
 ## Support
 
 For support, email tweaksdev22@gmail.com or join our [Discord Server ](https://discord.gg/Q67N6VFXnJ "discord").
