@@ -87,6 +87,7 @@
 | `Choicy` | `15.1` | :heavy_check_mark: |
 | `StoreSwitchAccounts` | `15.1` | :heavy_check_mark: |
 | `injectipa` | `15.1` | :heavy_check_mark: |
+| `Ersatz` | `15.1` | :heavy_check_mark: |
 
 
 
