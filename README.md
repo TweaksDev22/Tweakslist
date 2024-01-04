@@ -1,5 +1,5 @@
 
-# Tweaks List Roothide Dopamien
+# Tweaks List Roothide Dopamine
 
 ![Logo](https://raw.githubusercontent.com/TweaksDev22/Tweakslist/main/Images/logo.png)
 
