@@ -1,5 +1,5 @@
 
-# Tweaks List Roothide
+# Tweaks List Roothide Dopamine
 
 ![Logo](https://raw.githubusercontent.com/TweaksDev22/Tweakslist/main/Images/logo.png)
 
@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=TweaksDev22&color=blue)
 ## info
 
-**We have tried most of the tools that work on rootless on roothide jailbreak, as they work great, so we will share with you the set of tools that were tried on an iPhone 13 Pro, update 15.1.**
+**We have tried most of the tools that work on rootless dopamine, as they work great, so we will share with you the set of tools that were tried on an iPhone 13 Pro, update 15.1.**
 ## Sources List
 - **These sources we using it for convert tweaks from rootless to roothide using tool name roothide pather  , also these sources should be adding in PostBox not sileo .**
 ##
