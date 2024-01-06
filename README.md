@@ -96,7 +96,6 @@
 | Jailbreak | Supported          |
 | ------- | ------------------ |
 | Dopamine roothide  | :white_check_mark: |
------------
 | Bootstrap  | :x: |
 -----------
 
