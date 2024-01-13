@@ -87,8 +87,9 @@
 | `Choicy` | `15.1` | :heavy_check_mark: |
 | `StoreSwitchAccounts` | `15.1` | :heavy_check_mark: |
 | `injectipa` | `15.1` | :heavy_check_mark: |
-| `Ersatz` | `15.1` | :heavy_check_mark: |
-
+| `keyboard accio` | `15.1` | :heavy_check_mark: |
+| `deletecut` | `15.1` | :heavy_check_mark: |
+| `smoothcursor` | `15.1` | :heavy_check_mark: |
 
 
 ## This type of jailbreak we support
